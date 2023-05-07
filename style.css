@@ -1,0 +1,15 @@
+.equal{
+    border-radius: 30px;
+    width: 22%;
+}
+body{
+    font-size: 23px;
+    background-color: white;
+    color: black;
+}
+.all{
+   bottom: 0; 
+text-align: center;
+line-height: 4;
+
+}
